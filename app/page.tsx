@@ -22,7 +22,7 @@ const images: GalleryImage[] = [
     title: "Handwritten Note",
     description:
       "A scribbled reminder from a friend, left on my desk when I needed it most. The words were simple, but they stayed with me.",
-    scale: 1.05,
+    scale: 1.15,
   },
   {
     src: "/little-things/04.png",
@@ -45,7 +45,6 @@ const images: GalleryImage[] = [
     title: "Ticket Stub",
     description:
       "From a show I almost didn't go to. I'm grateful I said yes that night—it changed the way I think about spontaneity.",
-    scale: .95,
   },
   {
     src: "/little-things/07.png",
@@ -53,6 +52,7 @@ const images: GalleryImage[] = [
     title: "Washi Tape",
     description:
       "A scrap left over from wrapping a birthday gift. The person I gave it to made me feel seen in a way I hadn't expected.",
+    scale: .95,
   },
   {
     src: "/little-things/08.png",
