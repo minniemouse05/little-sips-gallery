@@ -36,7 +36,7 @@ const images: GalleryImage[] = [
     alt: "Core power",
     title: "Core Power",
     description:
-      "A core memory from Iceland grocery stores. A permanent fixture in my Ninja creami concotions from Dallas, TX.",
+      "A core memory from Iceland grocery stores. A permanent fixture in my Ninja creami concoctions to beat the Texas heat.",
     scale: 0.8,
   },
   {
