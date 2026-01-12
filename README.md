@@ -2,7 +2,7 @@
 
 A small gallery of drinks that mean something to me. Each one has a story.
 
-**Live:** [gallery-eight-jet.vercel.app](https://gallery-eight-jet.vercel.app/)
+**Live:** [litte-sips.vercel.app](https://little-sips.vercel.app/)
 
 ## About
 
